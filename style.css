@@ -29,22 +29,28 @@ ul{
     color: white;
     margin-right: 150px;
     width: 250px;
+  
 }
 
 body{
     justify-content: center;
 }
+input{
+    border: 1px solid ;
+    width: 100%;
+    padding: 13px 16px;
+    background-color: white;
+}
 
 .small{
-    display: flex;
+    /* display: flex; */
     justify-content: center;
-    text-align: center;
+    /* text-align: center; */
     background-color: white;
-    width: 100%;
+    max-width: 400px;
     height: 450px;
-    text-align: center;
-    margin-top: 200px;
-    margin-left: 35%;
+    margin: auto;
+    padding: 18px;
 }
 strong,span,h3,label{
     background-color: white;
