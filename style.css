@@ -32,6 +32,19 @@ ul{
     width: 250px;
 }
 
+h2{
+    text-align: center;
+    background-color: white;
+    color: blue;
+    font-family: 'Uchen', serif;
+    font-size: 40px;
+    font-weight: 1200;
+}
+.top{
+    font-size: 20px;
+    margin-left: 90px;
+}
+
 input{
     border: 1px solid ;
     width: 100%;
@@ -69,7 +82,7 @@ h1{
     color: black;
     background-color: white;
     margin-bottom: 30px;
-    margin-top: 50px;
+    margin-top: 30px;
 }
 .reset{
     font-size: 12px;
