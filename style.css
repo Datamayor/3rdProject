@@ -3,7 +3,7 @@
     margin: 0;
     box-sizing: border-box;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    background-color: rgb(243, 240, 237);
+    /* background-color: rgb(243, 240, 237); */
     color: rgb(117, 107, 107);
 }
 
@@ -86,7 +86,6 @@ h1{
 }
 .reset{
     font-size: 12px;
-    margin-left: 94px;
 }
 
 .love{
@@ -103,6 +102,29 @@ h1{
 .account{
     color: rgb(255, 197, 88);
 }
-label{
+/* label{
     margin-bottom: 0px;
+} */
+input#password{
+    margin-top: 0;
+}
+
+.div {
+    display: inline-block;
+    width: 100%;
+    background-color: #fff;
+}
+
+.label-text{
+    padding-bottom: 10px;
+}
+
+.div-left {
+    display: inline-block;
+}
+
+.div-right {
+    background-color: #fff;
+    display: block;
+    margin-left: 160px;
 }
