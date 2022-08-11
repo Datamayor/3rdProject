@@ -146,13 +146,12 @@ input#password{
     width: 90px;
 }
 ul{
-    text-align: center;
+    display: flex;
+    align-items: center;
 }
-.li{
-    margin-top: 17px;
 }
 li{
-    margin: 1px;
+    margin: 4px;
     padding: 1px;
     background-color: white;
 }
